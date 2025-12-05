@@ -80,18 +80,18 @@ Simulated live bus/metro models
 RESTful APIs
 
 ### 📁 Project Structure
-SUCA_Project/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── MapView.js
-│   │   └── components/
-│   └── public/
-│
-└── backend/
-    ├── index.js
-    ├── package.json
+SUCA_Project/           
+│  
+├── frontend/    
+│   ├── src/    
+│   │   ├── App.js    
+│   │   ├── MapView.js    
+│   │   └── components/    
+│   └── public/    
+│    
+└── backend/    
+    ├── index.js    
+    ├── package.json    
 ### 🚀 How to Run the Project
 1️⃣ Start Backend
 cd backend
